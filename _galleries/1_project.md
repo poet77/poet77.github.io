@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Poetry one
+title: project 1
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Art
+category: work
 related_publications: true
 ---
 
