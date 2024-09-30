@@ -15,7 +15,7 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
-
+<!--
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -194,3 +194,4 @@ pagination:
 {% endif %}
 
 </div>
+-->
