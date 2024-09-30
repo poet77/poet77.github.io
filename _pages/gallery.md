@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /gallery/
-title: gallery
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Gallery/
+title: Gallery
+description: Welcome to my Gallery, a curated space where I share my poetry, photography, and other intriguing creations. 
 nav: true
 nav_order: 6
 ---
