@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Life's surprise.
+description: Some interesting and transitional things in reality.
 img:
 importance: 3
 category: fun

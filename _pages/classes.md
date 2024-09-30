@@ -5,7 +5,7 @@ title: Courses
 description: Welcome to my Courses page, where I showcase the various courses I've taken and self-learned.
 nav: true
 nav_order: 6
-display_categories: [work, fun]
+display_categories: [Undergraduate, Self-learning]
 horizontal: false
 ---
 

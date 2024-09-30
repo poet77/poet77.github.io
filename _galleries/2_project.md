@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Poetry Collection ———— Insight and Logic
+description: Exploring the fusion of text and imagery, where emotion meets reason in a striking interplay of creativity
+img: assets/img/calligram.png
+importance: 1
+category: Literature
+redirect: https://github.com/poet77/My-Poetry
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,10 +2,10 @@
 layout: page
 permalink: /Gallery/
 title: Gallery
-description: Welcome to my Gallery, a curated space where I share my poetry, photography, and other intriguing creations. 
+description: Welcome to my Gallery, a curated space where I share my poetry and other intriguing creations. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Literature, Photography]
 horizontal: false
 ---
 
