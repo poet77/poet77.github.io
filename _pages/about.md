@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: The limits of my language means the limits of my world.
+subtitle: The limits of my language means the limits of my world ———— By Ludwig Wittgenstein.
 
 profile:
   align: right
