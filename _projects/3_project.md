@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Freecodecamp Learn
+title: Certifications
 description: Learn in Freecodecamp
 img: assets/img/freecodecamp.png
-importance: 2
+importance: 4
 category: Learn
 redirect: https://www.freecodecamp.org/learn
 ---

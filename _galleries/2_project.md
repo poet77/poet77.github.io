@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Poetry Collection
+title: 《天桥》
 description: My Poetry Collection about Calligram
-img: assets/img/calligram.png
+img: assets/img/tianqiao.png
 importance: 1
 category: Literature
 redirect: https://github.com/poet77/My-Poetry

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poetry Collection
+title: 《画中》
 description: Ephermeral Passion —— A poetry collection which contains my own work
 img: assets/img/huazhong.png
 importance: 2

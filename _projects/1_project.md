@@ -3,7 +3,7 @@ layout: page
 title: Self-learning courses
 description: USTC & Stanford online AI courses.
 img: assets/img/self-learning.jpg
-importance: 4
+importance: 2
 category: Learn
 redirect: https://github.com/poet77/Self-Learning-Courses
 ---

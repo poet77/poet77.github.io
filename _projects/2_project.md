@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Huggingface Learn
+title: Certifications
 description: Learn in Huggingface
 img: assets/img/hugging_face.png
 importance: 3
