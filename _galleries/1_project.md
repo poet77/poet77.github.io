@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poetry Collection
-description: A poetry collection which contains my work
+description: Ephermeral Passion —— A poetry collection which contains my own work
 img: assets/img/huazhong.png
 importance: 2
 category: Literature

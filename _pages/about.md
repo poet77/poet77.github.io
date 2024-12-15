@@ -22,7 +22,7 @@ I am a student on my GAP year at USTC KCL Lab,advised by **[Prof.Yi Zhou](https:
 
 - **[Theorem Proving](https://github.com/zhaoyu-li/DL4TP)**
 
-My pseudonym is **Luo**(洛) **Ci**(辞). Luo stands for **洛书**, and Ci stands for **楚辞**. My interests are broad, mainly including mathematics, literature, artificial intelligence, and linguistics. Outside of research, I enjoy activities such as writing, traveling, listening to music, and reading.
+My pseudonym is **Luo**(洛) **Ci**(辞). Luo stands for **《洛书》**, and Ci stands for **《楚辞》**. My interests are broad, mainly including mathematics, literature, artificial intelligence, and linguistics. Outside of research, I enjoy activities such as writing, traveling, listening to music, and reading.
 
 I am still exploring my research goals. My long-term goal is to explore how to build **AGI** and use it to promote the development and progress of human civilization. I am very fond of interdisciplinary research, and my potential research interests include
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poetry Collection
-description: Exploring the fusion of text and imagery, where emotion meets reason in a striking interplay of creativity
+description: My Poetry Collection about Calligram
 img: assets/img/calligram.png
 importance: 1
 category: Literature

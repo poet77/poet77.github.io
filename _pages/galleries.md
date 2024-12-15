@@ -5,7 +5,7 @@ title: Gallery
 description: Welcome to my Gallery, a curated space where I share my poetry and other intriguing creations. 
 nav: true
 nav_order: 3
-display_categories: [Literature, Photography]
+display_categories: [Literature, Talks]
 horizontal: false
 ---
 

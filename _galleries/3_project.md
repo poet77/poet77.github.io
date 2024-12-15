@@ -1,11 +1,11 @@
 ---
 layout: page
-title: When I was 17.
-description: An album contains my good old days.
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Graduation Speech.
+description: A Speech about why I decided to learn AI.
+img: assets/img/ustc_speech.jpg
 importance: 3
-category: fun
+category: Talks
+redirect: https://mp.weixin.qq.com/s/GpAjkoU_arvfwvuve0jRiA?token=2096888429&lang=zh_CN
 ---
 
 Every project has a beautiful feature showcase page.

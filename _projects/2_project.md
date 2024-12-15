@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Huggingface Learn
+description: Learn in Huggingface
+img: assets/img/hugging_face.png
+importance: 3
+category: Learn
+redirect: https://huggingface.co/learn
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Lean Games
+description: Learn Lean by playing games.
+img: assets/img/lean.jpg
+importance: 1
+category: Learn
+redirect: https://adam.math.hhu.de/
 ---
 
 Every project has a beautiful feature showcase page.

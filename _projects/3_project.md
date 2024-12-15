@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Freecodecamp Learn
+description: Learn in Freecodecamp
+img: assets/img/freecodecamp.png
+importance: 2
+category: Learn
+redirect: https://www.freecodecamp.org/learn
 ---
 
 Every project has a beautiful feature showcase page.
