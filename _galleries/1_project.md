@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poetry Collection ———— Ephemeral Passion
+title: Poetry Collection
 description: A poetry collection which contains my work
 img: assets/img/huazhong.png
 importance: 2

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poetry Collection ———— Insight and Logic
+title: Poetry Collection
 description: Exploring the fusion of text and imagery, where emotion meets reason in a striking interplay of creativity
 img: assets/img/calligram.png
 importance: 1
