@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a student on my GAP year at USTC KCL Lab,advised by **[Prof.Yi Zhou](https://eeis.ustc.edu.cn/2022/0607/c2648a557568/page.htm)**. Previously,I completed my undergraduate degree at the **[School of the Gifted Young, USTC](https://sgy.ustc.edu.cn/)**, adivised by **[Prof.Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)**. My primary research interest is using Artificial Intelligence to solve real-world scientific tasks. At that moment, I am focusing on: 
+I am a student on my GAP year at USTC KCL Lab,advised by **[Prof.Yi Zhou](https://eeis.ustc.edu.cn/2022/0607/c2648a557568/page.htm)**. Previously,I completed my undergraduate degree at the **[School of the Gifted Young, USTC](https://sgy.ustc.edu.cn/)**, advised by **[Prof.Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)**. My primary research interest is using Artificial Intelligence to solve real-world scientific tasks. At that moment, I am focusing on: 
 
 - **[Autoformalization(translate natural language into formal langugae,like Lean)](https://github.com/j991222/ai4math-papers)**
 
