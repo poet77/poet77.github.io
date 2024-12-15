@@ -7,7 +7,7 @@ subtitle: The limits of my language means the limits of my world ———— By
 profile:
   align: right
   image: 77photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 
