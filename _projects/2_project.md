@@ -4,7 +4,7 @@ title: Certifications
 description: Learn in Huggingface
 img: assets/img/hugging_face.png
 importance: 3
-category: Learn
+category: xx
 redirect: https://huggingface.co/learn
 ---
 

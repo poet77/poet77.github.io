@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lean Games
-description: Learn Lean by playing games.
-img: assets/img/lean.jpg
+title: Certifications
+description: Learn in Kaggle
+img: assets/img/kaggle.png
 importance: 1
 category: Learn
-redirect: https://adam.math.hhu.de/
+redirect: https://github.com/poet77/Toy-projects/tree/main
 ---
 
 Every project has a beautiful feature showcase page.

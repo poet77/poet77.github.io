@@ -5,7 +5,7 @@ description: Learn in Freecodecamp
 img: assets/img/freecodecamp.png
 importance: 4
 category: Learn
-redirect: https://www.freecodecamp.org/learn
+redirect: https://github.com/poet77/Toy-projects/tree/main
 ---
 
 Every project has a beautiful feature showcase page.
